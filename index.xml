@@ -6,23 +6,14 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2020 23:00:19 +0800</lastBuildDate><atom:link href="https://blog.zerowzl.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://blog.zerowzl.com/posts/blog/</link>
-      <pubDate>Mon, 23 Nov 2020 23:00:19 +0800</pubDate>
-      
-      <guid>https://blog.zerowzl.com/posts/blog/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 23 Nov 2020 22:08:40 +0800</lastBuildDate><atom:link href="https://blog.zerowzl.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://blog.zerowzl.com/post/my-first-post/</link>
       <pubDate>Mon, 23 Nov 2020 22:08:40 +0800</pubDate>
       
       <guid>https://blog.zerowzl.com/post/my-first-post/</guid>
-      <description></description>
+      <description>hugo-Windows scoop 1 2 set-executionpolicy remotesigned -scope currentuser iex (new-object net.webclient).downloadstring(&amp;#39;https://get.scoop.sh&amp;#39;) hugo 1 scoop install hugo new blog 1 2 3 4 5 6 7 8 # 新建 hugo new site blog # 添加文章 hugo new post/my-first-post.md # 本地调式 hugo server -D # 生成静态页面 hugo -D</description>
     </item>
     
   </channel>
