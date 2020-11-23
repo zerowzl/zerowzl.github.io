@@ -3,93 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/posts/blog/</loc>
+    <loc>https://blog.zerowzl.com/posts/blog/</loc>
     <lastmod>2020-11-23T23:00:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://blog.zerowzl.com/posts/</loc>
+    <lastmod>2020-11-23T23:00:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.zerowzl.com/</loc>
     <lastmod>2020-11-23T23:00:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://blog.zerowzl.com/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://blog.zerowzl.com/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2020-11-23T23:00:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/post/my-first-post/</loc>
+    <loc>https://blog.zerowzl.com/post/my-first-post/</loc>
     <lastmod>2020-11-23T22:08:40+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/</loc>
+    <loc>https://blog.zerowzl.com/post/</loc>
     <lastmod>2020-11-23T22:08:40+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://blog.zerowzl.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://blog.zerowzl.com/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://blog.zerowzl.com/authors/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://blog.zerowzl.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://blog.zerowzl.com/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://blog.zerowzl.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://blog.zerowzl.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://blog.zerowzl.com/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://blog.zerowzl.com/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://blog.zerowzl.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://blog.zerowzl.com/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://blog.zerowzl.com/tags/"
                 />
   </url>
   

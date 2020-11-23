@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on johndoe</title>
-    <link>http://www.example.com/posts/</link>
-    <description>Recent content in Posts on johndoe</description>
+    <title>Posts on zerowzl</title>
+    <link>https://blog.zerowzl.com/posts/</link>
+    <description>Recent content in Posts on zerowzl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2020 23:00:19 +0800</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2020 23:00:19 +0800</lastBuildDate><atom:link href="https://blog.zerowzl.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://www.example.com/posts/blog/</link>
+      <link>https://blog.zerowzl.com/posts/blog/</link>
       <pubDate>Mon, 23 Nov 2020 23:00:19 +0800</pubDate>
       
-      <guid>http://www.example.com/posts/blog/</guid>
+      <guid>https://blog.zerowzl.com/posts/blog/</guid>
       <description></description>
     </item>
     
